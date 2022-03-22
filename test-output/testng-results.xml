@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-22T14:51:55 IST" name="Suite" finished-at="2022-03-22T14:52:17 IST" duration-ms="22092">
+  <suite started-at="2022-03-22T15:38:53 IST" name="Suite" finished-at="2022-03-22T15:39:11 IST" duration-ms="17841">
     <groups>
     </groups>
-    <test started-at="2022-03-22T14:51:55 IST" name="Test" finished-at="2022-03-22T14:52:17 IST" duration-ms="22092">
+    <test started-at="2022-03-22T15:38:53 IST" name="Test" finished-at="2022-03-22T15:39:11 IST" duration-ms="17841">
       <class name="AppiumLatest_Testclass.Locators_Test">
-        <test-method is-config="true" signature="setup()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@3e27aa33]" started-at="2022-03-22T14:51:55 IST" name="setup" finished-at="2022-03-22T14:52:09 IST" duration-ms="14203" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@4145bad8]" started-at="2022-03-22T15:38:53 IST" name="setup" finished-at="2022-03-22T15:39:03 IST" duration-ms="10263" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Test_Locators()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@3e27aa33]" started-at="2022-03-22T14:52:09 IST" name="Test_Locators" finished-at="2022-03-22T14:52:16 IST" duration-ms="7037" status="PASS">
+        <test-method signature="Test_Locators()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@4145bad8]" started-at="2022-03-22T15:39:03 IST" name="Test_Locators" finished-at="2022-03-22T15:39:11 IST" duration-ms="7526" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Locators -->
-        <test-method is-config="true" signature="Stop_Record()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@3e27aa33]" started-at="2022-03-22T14:52:16 IST" name="Stop_Record" finished-at="2022-03-22T14:52:17 IST" duration-ms="797" status="PASS">
+        <test-method is-config="true" signature="Stop_Record()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@4145bad8]" started-at="2022-03-22T15:39:11 IST" name="Stop_Record" finished-at="2022-03-22T15:39:11 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Stop_Record -->
