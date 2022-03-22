@@ -17,6 +17,11 @@ public class Locators_Test extends PracBase_App_Demos
 	
 	public Locatorrs l;
 
+	
+	public Locators_Test() 
+	{
+		super();
+	}
 
 	@BeforeTest
 	public void setup() throws InterruptedException

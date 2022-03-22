@@ -34,7 +34,7 @@ public class TouchActions_Prac extends PracBase_App_Demos{
 	@AndroidFindBy(xpath = "(//android.view.View)[1]")
 	AndroidElement Source;
 	
-	@AndroidFindBy(xpath ="(//android.view.View)[3]]")
+	@AndroidFindBy(xpath ="(//android.view.View)[3]")
 	AndroidElement Dest;	
 	
 	

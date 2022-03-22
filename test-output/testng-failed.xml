@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AppiumLatest.AppiumLatest.Locators_Test">
+      <class name="AppiumLatest.TouchActionPrac_Test">
         <methods>
+          <include name="Done_WithShit"/>
           <include name="setup"/>
           <include name="Test_Locators"/>
         </methods>
-      </class> <!-- AppiumLatest.AppiumLatest.Locators_Test -->
+      </class> <!-- AppiumLatest.TouchActionPrac_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

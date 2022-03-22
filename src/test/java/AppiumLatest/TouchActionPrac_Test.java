@@ -17,6 +17,12 @@ private static Logger log=Logger.getLogger(Locators_Test.class.getName());
 	
 	public TouchActions_Prac t;
 
+	public TouchActionPrac_Test() 
+	{
+		super();
+	}
+	
+	
 
 	@BeforeTest
 	public void setup() throws InterruptedException
