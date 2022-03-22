@@ -9,7 +9,7 @@
   
   <test thread-count="5" name="Test">
     <classes>
-      <class name="PracPages.Locatorrs"/>
+      <class name="AppiumLatest_Testclass.Locators_Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

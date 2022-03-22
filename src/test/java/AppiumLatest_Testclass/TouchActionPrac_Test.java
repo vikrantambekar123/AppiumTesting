@@ -1,4 +1,4 @@
-package AppiumLatest;
+package AppiumLatest_Testclass;
 
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;

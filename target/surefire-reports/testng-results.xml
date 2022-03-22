@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="20666" started-at="2022-03-22T14:58:28 IST" finished-at="2022-03-22T14:58:48 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="20666" started-at="2022-03-22T14:58:28 IST" finished-at="2022-03-22T14:58:48 IST">
+      <class name="AppiumLatest_Testclass.Locators_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@45820e51]" name="setup" is-config="true" duration-ms="12758" started-at="2022-03-22T14:58:28 IST" finished-at="2022-03-22T14:58:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Locators()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@45820e51]" name="Test_Locators" duration-ms="7823" started-at="2022-03-22T14:58:40 IST" finished-at="2022-03-22T14:58:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Locators -->
+        <test-method status="PASS" signature="Stop_Record()[pri:0, instance:AppiumLatest_Testclass.Locators_Test@45820e51]" name="Stop_Record" is-config="true" duration-ms="1" started-at="2022-03-22T14:58:48 IST" finished-at="2022-03-22T14:58:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stop_Record -->
+      </class> <!-- AppiumLatest_Testclass.Locators_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

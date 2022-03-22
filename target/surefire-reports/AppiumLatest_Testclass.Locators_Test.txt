@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: AppiumLatest_Testclass.Locators_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.48 s - in AppiumLatest_Testclass.Locators_Test
